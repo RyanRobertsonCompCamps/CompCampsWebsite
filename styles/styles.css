@@ -5,5 +5,11 @@ font-family: 'Josefin Sans', sans-serif;
 }
 h1{
 
-colour: #ffffff
+colour: #ffffff;
+}
+
+p {
+background-color: Red;
+
+
 }
